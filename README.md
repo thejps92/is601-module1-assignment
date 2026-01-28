@@ -22,4 +22,7 @@ Removes files or directories.
 ### **cp**
 Copies files or directories.
 
+### **mv**
+Moves or renames files.
+
 ## Git Commands
