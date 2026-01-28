@@ -35,3 +35,6 @@ Searches for a pattern within a file.
 Changes file permissions.
 
 ## Git Commands
+
+### **git clone**
+Creates a local copy of a remote repository.
