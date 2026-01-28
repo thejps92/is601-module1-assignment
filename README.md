@@ -31,4 +31,7 @@ Displays the contents of a file.
 ### **grep**
 Searches for a pattern within a file.
 
+### **chmod**
+Changes file permissions.
+
 ## Git Commands
