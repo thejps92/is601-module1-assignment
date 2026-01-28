@@ -47,3 +47,6 @@ Stages changes for the next commit.
 
 ### **git commit**
 Records staged changes to the repository history.
+
+### **git push**
+Uploads local commits to a remote repository.
