@@ -41,3 +41,6 @@ Creates a local copy of a remote repository.
 
 ### **git status**
 Shows the current state of the working directory and staging area.
+
+### **git add**
+Stages changes for the next commit.
