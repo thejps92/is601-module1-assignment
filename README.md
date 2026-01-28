@@ -44,3 +44,6 @@ Shows the current state of the working directory and staging area.
 
 ### **git add**
 Stages changes for the next commit.
+
+### **git commit**
+Records staged changes to the repository history.
