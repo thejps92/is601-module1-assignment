@@ -25,4 +25,7 @@ Copies files or directories.
 ### **mv**
 Moves or renames files.
 
+### **cat**
+Displays the contents of a file.
+
 ## Git Commands
