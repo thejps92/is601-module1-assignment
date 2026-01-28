@@ -4,4 +4,7 @@ This repository contains a basic cheat sheet of commonly used Linux and Git comm
 
 ## Linux Commands
 
+### **ls**
+Lists files and directories in the current directory.
+
 ## Git Commands
