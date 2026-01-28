@@ -16,4 +16,7 @@ Displays the full path of the current directory.
 ### **mkdir**
 Creates a new directory.
 
+### **rm**
+Removes files or directories.
+
 ## Git Commands
