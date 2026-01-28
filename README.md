@@ -19,4 +19,7 @@ Creates a new directory.
 ### **rm**
 Removes files or directories.
 
+### **cp**
+Copies files or directories.
+
 ## Git Commands
